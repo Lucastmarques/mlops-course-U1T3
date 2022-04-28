@@ -65,6 +65,8 @@ You can also verify if all Coding Best Practices, Writing Clean Code, Refactorin
 pylint mission155solutions_refactored.py
 ```
 
+ <img src="pylint_10.PNG" alt="Pylint example">
+
 Be free to run this command for all scripts (.py files) in this repository.
 
 ## 📝 License
